@@ -1,0 +1,175 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi there",
+        "How are you",
+        "Is anyone there?",
+        "Hey",
+        "Hola",
+        "Hello",
+        "Bonjour",
+        "Namaste",
+        "Good morning",
+        "Namaskar",
+        "Good day"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Bye",
+        "Adios",
+        "Slan",
+        "Khuda hafiz",
+        "Totsiens",
+        "Sayonara",
+        "See you later",
+        "Goodbye",
+        "Good Bye",
+        "Nice chatting to you, bye",
+        "till next time"
+      ]
+    },
+    {
+      "tag": "fintract",
+      "patterns": [
+        "want to know about the company",
+        "info about the company",
+        "fintract global",
+        "Tell me about the company",
+        "what is fintract",
+        "what is the purpose of your company",
+        "what does fintract do",
+        "what does your company do"
+      ]
+    },
+    {
+      "tag": "internet banking",
+      "patterns": [
+        "Web banking",
+        "cyberbanking",
+        "ebanking",
+        "internet banking",
+        "online transaction",
+        "net banking",
+        "banking details",
+        "limit of online transaction",
+        "KYC"
+      ]
+    },
+    {
+      "tag": "insurance",
+      "patterns": [
+        "claim",
+        "insurance",
+        "cover",
+        "guarantee",
+        "premium",
+        "life",
+        "term",
+        "health",
+        "mature"
+      ]
+    },
+    {
+      "tag": "payment_issue",
+      "patterns": [
+        "payment issue ",
+        "assurance",
+        "protection",
+        "issue",
+        "unsuccessful ",
+        "transaction",
+        "transaction Failed",
+        "transaction unsuccessful",
+        "halted",
+        "Banking  problem"
+      ]
+    },
+    {
+      "tag": "contact_human_agent",
+      "patterns": [
+        "contact human Agent",
+        "respond",
+        "general agent",
+        "underwriter",
+        "client service",
+        "troubleshooting",
+        "contact customer care",
+        "provide contact details",
+        "help needed"
+      ]
+    },
+    {
+      "tag": "invoices",
+      "patterns": [
+        "check invoice",
+        "account statement",
+        "score",
+        "reckoning",
+        "tally",
+        "payment details",
+        "generate billing"
+      ]
+    },
+    {
+      "tag": "card_details",
+      "patterns": [
+        "credit card",
+        "debit card",
+        "card not working",
+        "card lost",
+        "card damaged",
+        "card misplaced",
+        "new card",
+        "issue",
+        "stolen",
+        "robbery",
+        "block"
+      ]
+    },
+    {
+      "tag": "loan",
+      "patterns": [
+        "loan prerequisites",
+        "downpayment",
+        "interest rate",
+        "debt",
+        "repayment",
+        "mortgage",
+        "loan",
+        "borrow",
+        "lend me money",
+        "processing fee"
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": [
+        "thanks",
+        "thank you",
+        "that's helpful",
+        "gratitude",
+        "blessing",
+        "cheers",
+        "applauds",
+        "acknowledgment",
+        "gratefulness"
+      ]
+    },
+    {
+      "tag": "query_raised",
+      "patterns": [
+        "question",
+        "query",
+        "uncertainty",
+        "suspicion",
+        "scepticism",
+        "inquire"
+      ]
+    }
+
+  ]
+}
